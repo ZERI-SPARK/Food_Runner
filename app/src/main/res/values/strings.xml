@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Food Runner</string>
+    <string name="sign_up"><u>Don\'t have an account? Sign up now</u></string>
+    <string name="forgot_password"><u>Forgot Password ?</u></string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="next">Next</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="ques1">What is FoodRunner and Why it is built ?</string>
+    <string name="ans1">As a part of Internshala\'s Training Program, I was given this project to showcase my skills. This app is just to showcase my skills and thus is not an actual product.\nThis application fetches list of restaurants made available by Internshala\'s API and further we can demonstrate food ordering from app using help of topics covered during the course.</string>
+    <string name="ques2">So who built this application ?</string>
+    <string name="ans2">Like I earlier said, this was just a project to showcase my skills, you have got an idea that I was a student under Internshala Training Program. My name is Anuj Kumar and I created this project during 6 week online training which started from 2 May. I was in 6th Semester during completing this training course.</string>
+    <string name="ques3">How much time did I spend everyday ?</string>
+    <string name="ans3">Number of actual hours may vary upon your skills and knowledge. But however, Internshala recommends giving 10\-12 hours per week to understand the things and develop this application as a final project.</string>
+    <string name="ques4">So how does this application work ?</string>
+    <string name="ans4">This application simply requests the Internshala\'s API to fetch and send the data. Restaurant list and the items delivered by them are fetched. Similarly, food ordering requests are sent to the API. User may create new acoount or login through the same idea behind it.</string>
+    <string name="ans5">I was trained using already created videos and text tutorials. There were variety of test, assignments and quizzes to help me learn faster and better. And at last, this project was simply an attempt by Internshala to get hands-on practice of what did I Just learnt.</string>
+    <string name="ques5">How was training delivered to me by Internshala?</string>
+</resources>
